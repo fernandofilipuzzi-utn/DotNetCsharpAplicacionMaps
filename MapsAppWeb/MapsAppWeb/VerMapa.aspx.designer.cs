@@ -11,25 +11,25 @@ namespace MapsAppWeb
 {
 
 
-    public partial class SiteMaster
+    public partial class VerMapa
     {
 
         /// <summary>
-        /// Control form1.
+        /// Control btn2.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlForm form1;
+        protected global::System.Web.UI.WebControls.Button btn2;
 
         /// <summary>
-        /// Control MainContent.
+        /// Control btn3.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.ContentPlaceHolder MainContent;
+        protected global::System.Web.UI.WebControls.Button btn3;
     }
 }
