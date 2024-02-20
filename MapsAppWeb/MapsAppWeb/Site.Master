@@ -49,9 +49,10 @@
                     </li>
 
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown1" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Ver</a>
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown1" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Ver Mapas</a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown1">
-                            <a class="dropdown-item" href="VerEntregas.aspx">Entregas</a>
+                            <a class="dropdown-item" href="VerMapa 1.aspx">Forma 1 <i class="fa-sharp fa-solid fa-map"></i></a>
+                            <a class="dropdown-item" href="VerMapa 1.aspx">Forma 2 <i class="fa-sharp fa-solid fa-map"></i></a>
                         </div>
                     </li>
                 </ul>
@@ -68,7 +69,8 @@
                 </li>
              
                 <li class="nav-item">
-                    <a class="nav-link" href="VerEntregas.aspx"><i class="fas fa-user"></i>Entregas</a>
+                    <a class="nav-link" href="VerMapa1.aspx"><i class="fas fa-map"></i>Forma 1</a>
+                    <a class="nav-link" href="VerMapa2.aspx"><i class="fas fa-map"></i>Forma 2</a>
                 </li>
 
             </ul>

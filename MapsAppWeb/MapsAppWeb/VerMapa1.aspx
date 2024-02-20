@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master"  MaintainScrollPositionOnPostback="true" AutoEventWireup="true" CodeBehind="VerEntregas.aspx.cs" Inherits="MapsAppWeb.VerEntregas" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master"  MaintainScrollPositionOnPostback="true" AutoEventWireup="true" CodeBehind="VerMapa1.aspx.cs" Inherits="MapsAppWeb.VerMapa1" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
 

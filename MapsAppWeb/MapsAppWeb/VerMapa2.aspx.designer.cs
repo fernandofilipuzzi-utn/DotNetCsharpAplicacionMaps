@@ -11,7 +11,7 @@ namespace MapsAppWeb
 {
 
 
-    public partial class VerMapa
+    public partial class VerMapa2
     {
 
         /// <summary>

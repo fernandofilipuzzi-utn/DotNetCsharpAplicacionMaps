@@ -166,8 +166,8 @@
     <Content Include="Scripts\WebForms\WebParts.js" />
     <Content Include="Scripts\WebForms\WebUIValidation.js" />
     <Content Include="Site.Master" />
-    <Content Include="VerEntregas.aspx" />
-    <Content Include="VerMapa.aspx" />
+    <Content Include="VerMapa1.aspx" />
+    <Content Include="VerMapa2.aspx" />
     <Content Include="Web.config" />
     <Content Include="Bundle.config" />
   </ItemGroup>
@@ -196,19 +196,19 @@
     <Compile Include="Site.Master.designer.cs">
       <DependentUpon>Site.Master</DependentUpon>
     </Compile>
-    <Compile Include="VerEntregas.aspx.cs">
-      <DependentUpon>VerEntregas.aspx</DependentUpon>
+    <Compile Include="VerMapa1.aspx.cs">
+      <DependentUpon>VerMapa1.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="VerEntregas.aspx.designer.cs">
-      <DependentUpon>VerEntregas.aspx</DependentUpon>
+    <Compile Include="VerMapa1.aspx.designer.cs">
+      <DependentUpon>VerMapa1.aspx</DependentUpon>
     </Compile>
-    <Compile Include="VerMapa.aspx.cs">
-      <DependentUpon>VerMapa.aspx</DependentUpon>
+    <Compile Include="VerMapa2.aspx.cs">
+      <DependentUpon>VerMapa2.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="VerMapa.aspx.designer.cs">
-      <DependentUpon>VerMapa.aspx</DependentUpon>
+    <Compile Include="VerMapa2.aspx.designer.cs">
+      <DependentUpon>VerMapa2.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

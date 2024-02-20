@@ -7,7 +7,7 @@ using System.Web.UI.WebControls;
 
 namespace MapsAppWeb
 {
-    public partial class VerEntregas : System.Web.UI.Page
+    public partial class VerMapa1 : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
